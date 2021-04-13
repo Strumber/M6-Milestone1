@@ -2,6 +2,8 @@ package com.jobs.view;
 
 import com.jobs.application.JobsController;
 
+//Nivell 1
+
 //El sistema de pagament dependrà de l’empleat. Hi ha quatre tipus: 
 
 //Manager: cobren un 10% més del seu salari mensual. 
