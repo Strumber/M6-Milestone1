@@ -2,6 +2,15 @@ package com.jobs.view;
 
 import com.jobs.application.JobsController;
 
+//El sistema de pagament dependrà de l’empleat. Hi ha quatre tipus: 
+
+//Manager: cobren un 10% més del seu salari mensual. 
+//Boss: cobren un 50% més del seu salari mensual.  
+//Employee: cobren el sou mensual aplicant una reducció del 15% 
+//Volunteer: no cobren 
+
+//S’ha de partir del projecte parcialment desenvolupat i acabar les funcionalitats pendents de programar per tal que el software funcioni correctament. 
+
 
 public class Main {
 
